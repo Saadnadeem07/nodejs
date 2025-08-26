@@ -3,3 +3,4 @@ function greet(username) {
 }
 
 module.exports = greet;
+//if more than 1 variables check persons.js file
