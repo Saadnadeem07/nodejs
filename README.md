@@ -1,5 +1,5 @@
 
-# Node.js Learning Repository
+# Node.js Learning Repository 
 
 This repository contains my practice and exploration while **learning/mastering Node.js**.  
 I wrote code examples in VS Code and executed them to understand how Node.js works in depth.
