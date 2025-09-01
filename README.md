@@ -10,7 +10,7 @@ I followed the video course:
 🔗 [Watch here](https://www.youtube.com/watch?v=EsUL2bfKKLc&list=PLSDeUiTMfxW5vCie_cwsV6UPcZijHce8j&index=1&t=3226s)
 
 ## 📂 Repository Structure
-
+- **0 - What and Why Node** → How nodeJs was created C++ + v8 engine.
 - **1 - Modules Wrapper** → Basics of how Node.js wraps code in modules.
 - **2 - Modules** → Understanding CommonJS module system (`require`, `exports`).
 - **3 - ES6 Modules** → Using modern `import/export` syntax.
