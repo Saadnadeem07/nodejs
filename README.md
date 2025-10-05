@@ -7,7 +7,7 @@ Each folder demonstrates a specific concept, with concise examples written in VS
 This repository serves as a personal learning journal and a quick‑reference guide for anyone exploring core Node.js features before moving on to frameworks like **Express.js** or **NestJS**.
 
 ## 📚 Source of Learning
-I followed the free video course:  
+I followed the free video course:
 **The Complete Node.js Bootcamp: From Beginner to Expert — Unlocking the Power of Server-Side JS**  
 🔗 [Watch on YouTube](https://www.youtube.com/watch?v=EsUL2bfKKLc&list=PLSDeUiTMfxW5vCie_cwsV6UPcZijHce8j&index=1&t=3226s)
 
